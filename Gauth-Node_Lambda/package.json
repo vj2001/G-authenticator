@@ -1,0 +1,16 @@
+{
+  "name": "gauth-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "otplib": "^12.0.1",
+    "speakeasy": "^2.0.0"
+  }
+}
